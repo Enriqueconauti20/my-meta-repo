@@ -3,6 +3,8 @@ from tensorflow import keras
 from tensorflow.keras import layers 
 import numpy as np
 
+#probando Cambios y actualizando en GitHUb
+
 from tensorflow.keras.layers import Activation, Dense
 
 model=tf.keras.Sequential([tf.keras.layers.Dense \
